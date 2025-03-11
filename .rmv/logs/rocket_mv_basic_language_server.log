@@ -17606,3 +17606,4 @@ Account{name=..., path=..., type=PREDICT}
 2025-03-11 20:35:38.737 [pool-3-thread-1] INFO  com.rs.mv.mvvs.common.convertor.ConvertorManager - [framework:30030201]convertors for folder(C:/Users/Lenovo LOQ/OneDrive/Belgeler/GitHub/demosite1) reload start
 2025-03-11 20:35:38.742 [pool-3-thread-1] INFO  com.rs.mv.mvvs.common.convertor.ConvertorManager - [framework:30030202]convertors for folder(C:/Users/Lenovo LOQ/OneDrive/Belgeler/GitHub/demosite1) load end
 2025-03-11 20:36:20.099 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.scan.CurrentPathScanner - [client:400205]scan file in current open file directory(C:/Users/Lenovo LOQ/OneDrive/Belgeler/GitHub/demosite1/.git)
+2025-03-11 20:42:29.439 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.scan.CurrentPathScanner - [client:400205]scan file in current open file directory(C:/Users/Lenovo LOQ/OneDrive/Belgeler/GitHub/demosite1/_site)
