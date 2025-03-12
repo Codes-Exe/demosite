@@ -26,6 +26,6 @@ defaults:
       type: "posts" # previously `post` in Jekyll 3.10.0
     values:
       layout: "post"
-      author: "Your name"
+      author: "Erçetin Güler"
       category: "jekyll"
       version: "v3.10.0"
