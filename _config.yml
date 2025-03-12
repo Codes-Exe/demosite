@@ -28,3 +28,4 @@ defaults:
       layout: "post"
       author: "Your name"
       category: "jekyll"
+      version: "v3.10.0"
