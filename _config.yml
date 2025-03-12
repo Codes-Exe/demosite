@@ -7,10 +7,10 @@
 
 # Site settings
 title: Great web agency
-email: youremail@somewhere
+email: ercetinguler@startteknoloji.space
 description: "Great web agency offers high impact yet affordable web development services. From web design to targeted SEO to custom web applications."
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://satilik.shop/" # the base hostname & protocol for your site
+url: "https://satilik.shop" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
 
@@ -23,9 +23,8 @@ defaults:
   -
     scope:
       path: "" # an empty string here means all files in the project
-      type: "posts" # previously `post` in Jekyll 3.10.0
+      type: "posts" # previously `post` in Jekyll 2.2.
     values:
       layout: "post"
       author: "Erçetin Güler"
-      category: "jekyll v3.10.0"
-   
+      category: "jekyll"
