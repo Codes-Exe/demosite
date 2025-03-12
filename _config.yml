@@ -27,5 +27,5 @@ defaults:
     values:
       layout: "post"
       author: "Erçetin Güler"
-      category: "jekyll"
-      version: "v3.10.0"
+      category: "jekyll v3.10.0"
+   
