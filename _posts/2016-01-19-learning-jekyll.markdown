@@ -1,7 +1,7 @@
 ---
 title: "Learning Jekyll"
 date: 2016-01-08 12:00
-image: http://placehold.it/900x300
+image: <img src="https://github.com/user-attachments/assets/e08a8288-ffb6-4c94-8fd2-2900309ce7f1" alt="satilik shop">
 lead: If there is a lesson to be learned, it is the futility of seeking fulfillment in outer space. We need to judge ourselfs by who we are, not by where we go.
 ---
 
