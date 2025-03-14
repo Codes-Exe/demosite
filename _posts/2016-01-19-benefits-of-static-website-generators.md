@@ -1,7 +1,7 @@
 ---
 title: Benefits of static site generators
 date: 2016-01-19 15:00
-image: <img src="https://github.com/user-attachments/assets/c2415e3d-001b-4ba0-be2c-6bacddec7c7e" alt="satilik shop1024">
+image: <img src="https://github.com/user-attachments/assets/bb2bffd7-1cd8-4ba9-8911-4b8eaad33176" alt="satilik shop1024">
 lead: "We pay a huge price for the underlying complexity of dynamic code running on a server for every request — a price we could avoid paying entirely when this kind of complexity is not needed."
 subtitle: Create a ultra fast, secure blog that is easy to mantain and easy to scale
 ---
